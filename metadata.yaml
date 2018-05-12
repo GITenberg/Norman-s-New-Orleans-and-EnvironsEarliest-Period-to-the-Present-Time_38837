@@ -1,0 +1,30 @@
+_repo: Norman-s-New-Orleans-and-EnvironsEarliest-Period-to-the-Present-Time_38837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norman, Benjamin Moore
+    alias: Norman, B. M. (Benjamin Moore)
+    birthdate: 1809
+    deathdate: 1860
+    gutenberg_agent_id: '38522'
+    url: http://www.gutenberg.org/2009/agents/38522
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38837'
+  lccn: 01008776
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans (La.) -- Guidebooks'
+- !lcc 'F350.5'
+title: "Norman's New Orleans and Environs\r\nContaining a Brief Historical Sketch\
+  \ of the Territory and State of Louisiana and the City of New Orleans, from the\
+  \ Earliest Period to the Present Time"
+url: http://www.gutenberg.org/ebooks/38837
